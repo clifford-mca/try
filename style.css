@@ -1,0 +1,94 @@
+.hori{
+    display: flex;
+}
+.body{
+    border-radius: 0;
+}
+
+/*css for google*/
+.gogel {
+   align-items: center;
+    width: 200px;
+    height: 30px;
+    background-color: #eae9f0;
+   border-radius: 70px;
+    padding: 20px;
+    display: flex;
+    margin: right;
+}
+.g{
+    list-style: none;
+    text-align: center;
+  
+}
+.g a{
+    color: black;
+    text-decoration: none;
+    font-size: xx-large;
+    text-align: center;
+    padding-right: 50px;
+}
+.glogo{
+    display: flex;
+    width: 70px;
+    height: auto;
+}
+/*css for youtube*/
+.youtube{
+    align-items: center;
+    width: 200px;
+    height: 30px;
+    background-color: #cf3535;
+    border-radius: 70px;
+    padding: 20px;
+    padding-right: 50px;
+    display: flex;
+   margin: right;
+    
+}
+.y{
+    list-style: none;
+    text-align: center;
+    display: flex;
+}
+.y a{
+    color: white;
+    text-decoration: none;
+    font-size:xx-large ;
+    text-align: center;
+}
+.ylogo{
+    width: 70px;
+    height: auto;
+    display: flex;
+    align-items: center;
+}
+/*css for tiktok*/
+
+.tiktok {
+    width: 200px;
+    height: 30px;
+    background-color: #080505;
+    border-radius: 70px;
+    padding: 20px;
+    display: flex; 
+    margin: auto;  
+    align-items: center;
+}
+.tlogo{
+    display: flex;
+    width: 60px;
+    height: auto;
+}
+.t{
+    list-style: none;
+    
+}
+.t a{
+    color: white;
+    text-decoration: none; 
+    text-align: center;
+    font-size: xx-large;
+    padding-right: 50px;
+}
+
